@@ -18,7 +18,7 @@ public class Minima{
     int a = Integer.parseInt(args[0]);
     int b = Integer.parseInt(args[1]);
     int c = Integer.parseInt(args[2]);
-    System.out.println(sort(a,b,c));
+    System.out.println(minimum(a,b,c));
 
   }
 
