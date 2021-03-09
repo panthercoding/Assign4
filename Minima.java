@@ -4,13 +4,7 @@ public class Minima{
  @return the minimum of the three integers */
  
   public static int minimum(int a, int b, int c){
-    if ((a <= b) && (b <= c)){
-      return(a + " " + b + " " + c);
-    }
-    else if ((a <= b) && (b <= c)){
-
-    }
-    else if ()
+    /* to be implemented */
   }
 
   /* main method */
